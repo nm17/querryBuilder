@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="application/src/autoload.php">
+	<testsuite name="Mysql">
+		<directory suffix="Test.php">./tests/Mysql</directory>
+	</testsuite>
+</phpunit>
